@@ -1,9 +1,3 @@
-## Code:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcmd-epfl&repo=NaviCat)](https://github.com/lcmd-epfl/NaviCat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcmd-epfl&repo=cell2mol)](https://github.com/lcmd-epfl/cell2mol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcmd-epfl&repo=Q-stack)](https://github.com/lcmd-epfl/Q-stack)
-
 ## Tools:
 
 <table>
